@@ -1,0 +1,8 @@
+@font-face {
+  font-family: dana;
+  src: url("fonts/woff2/dana-fanum-medium.woff2");
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
