@@ -69,8 +69,7 @@ function App() {
                     <p className="my-2 font-medium text-[9px] md:text-[11px]">
                       جمعه 21 اردیبهشت 1403
                     </p>
-
-                    <div className="hover:bg-[#010660] w-2 h-2 rounded-[50px] mb-[-4.5px] bg-[#e0e0e0] z-[2] text-[30px] ml-[350px]"></div>
+                    <div className="hover:bg-[#010660] w-2 h-2 rounded-[50px] mb-[-4.5px] bg-[#e0e0e0] z-[2] text-[30px] ml-[200px] md:ml-[350px]"></div>
                     <div className="hover:bg-[#010660] md:w-[345px] w-[100%] h-0.5 overflow-hidden bg-[#e0e0e0] max-h-0.5"></div>
                     <div className="hover:bg-[#010660] w-2 h-2 rounded-[50px] md:ml-[-140px] mr-[200px] mt-[-5px] bg-[#e0e0e0] z-[2]  text-[30px]"></div>
                     <p className="ml-0.5 text-color-0 flex text-[9px] md:text-[10px] mt-1">
